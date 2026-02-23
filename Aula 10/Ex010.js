@@ -10,6 +10,6 @@ const botao = document.querySelector('#btnSomar')
             const n2 = Number(tn2.value)
             const soma = n1 + n2
 
-            res.innerHTML = `O valor de ${n1} com a soma de ${n2} é: ${soma}`
+            res.textContent = `O valor de ${n1} com a soma de ${n2} é: ${soma}`
 
         }
