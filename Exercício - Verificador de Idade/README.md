@@ -14,5 +14,5 @@ Segundo projeto prático desenvolvido durante o curso de **JavaScript** do canal
 - [x] Layout centralizado com `margin: auto` e `box-shadow`.
 
 ## 📸 Como ficou o projeto:
-*<img width="830" height="585" alt="image" src="https://github.com/user-attachments/assets/5f78fcb5-5c5a-445e-b920-f88283a2b5db" />
-*
+<img width="830" height="585" alt="image" src="https://github.com/user-attachments/assets/5f78fcb5-5c5a-445e-b920-f88283a2b5db" />
+
